@@ -6,7 +6,7 @@ public class FirstJavaProgram
 	{
 
 		// Numeric Data Types
-		int a=100
+		int a=100;
 		
 	}
 }
