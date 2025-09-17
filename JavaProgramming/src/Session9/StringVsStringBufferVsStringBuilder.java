@@ -7,23 +7,22 @@ public class StringVsStringBufferVsStringBuilder
 	{
 		//Strimg--Immutable
 		
-		/*
+		
 	    String s="Welcome";
         s.concat("To Java");
         System.out.println(s);
-        */
-		
-		/*
+        
+	
 		//String Buffer --Mutable
-		StringBuffer s= new StringBuffer("Welcome ");
-		s.append("To Java");
-		System.out.println(s);
-        */
+		StringBuffer s1= new StringBuffer("Welcome ");
+		s1.append("To Java");
+		System.out.println(s1);
+        
 		
 		//String Builder --Mutable
-		StringBuilder s= new StringBuilder("Welcome ");
-		s.append("To Java");
-		System.out.println(s);
+		StringBuilder s2= new StringBuilder("Welcome ");
+		s2.append("To Java");
+		System.out.println(s2);
 	    
 	}
 

@@ -1,7 +1,5 @@
 package Session9;
 
-import java.util.Arrays;
-
 public class MutableVsImmutable
 {
 
